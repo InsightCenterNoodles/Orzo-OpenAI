@@ -4,7 +4,12 @@ Visualize with an OpenAI assistant in Orzo!
 ## Example
 In this example, a user chats with an OpenAI Assistant to invoke multiple methods with custom parameters. 
 
-https://github.com/InsightCenterNoodles/Orzo-OpenAI/blob/main/AssistantMethodInvocation.mov 
+Activate the conversation:
+![ChatBox](https://github.com/InsightCenterNoodles/Orzo-OpenAI/blob/main/Orzo_chatbox.png)
+
+Send your request:
+
+Both methods invoked:
 
 
 ## Authors
