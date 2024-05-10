@@ -1,12 +1,14 @@
 # Orzo-OpenAI
 Visualize with an OpenAI assistant in Orzo!
 To use this version of orzo, replace your window.py file in Orzo-Main/orzo/window.py with GPT-window.py. Renaming it to window or changing import statements will be neccesary.
+
 This version currently supports streaming, more information can be found here: https://platform.openai.com/docs/assistants/overview
+
 The Assistants API is dynamic and will change in the future. 
 Modification to GPT-window.py will likely be neccesary, specifically the send_to_chat(self, user_input) method
 
 The custom function Invoke_Method's JSON file is available in this repository as an example of a custom function definition.
-Assitants can be created in text, but this implementation utilized the Assistants playground, so only an assistants key is required in this code.
+Assistants can be created in the .py file, but this implementation utilized the Assistants playground, so only an assistants key is required in this code.
 
 ## Example
 In this example, a user chats with an OpenAI Assistant to invoke multiple methods with custom parameters.
