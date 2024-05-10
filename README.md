@@ -1,8 +1,10 @@
 # Orzo-OpenAI
 Visualize with an OpenAI assistant in Orzo!
 
-##Example
+## Example
 In this example, a user chats with an OpenAI Assistant to invoke multiple methods with custom parameters. 
+
+![ExampleScreenshot](https://github.com/InsightCenterNoodles/Orzo-OpenAI/blob/main/ChatGPTrobotdemo.png)
 
 ## Authors
 
