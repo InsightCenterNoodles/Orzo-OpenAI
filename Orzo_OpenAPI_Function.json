@@ -1,0 +1,45 @@
+{
+    "name": "Invoke_Method",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "Conversation_Output": {
+          "type": "string",
+          "description": "Message to user indicating response to request"
+        },
+        "Method_ID": {
+          "type": "string",
+          "description": "Method id from given list"
+        },
+        "Question": {
+          "type": "string",
+          "description": "returns True if no method invocation was requested"
+        },
+        "color": {
+          "type": "string",
+          "description": "RGBA color based on request"
+        },
+        "position": {
+          "type": "string",
+          "description": "(x,y,z) position to translate entity"
+        },
+        "scale": {
+          "type": "string",
+          "description": "scale of which to scale entitiy by"
+        },
+        "name": {
+          "type": "string",
+          "description": "name of object user wants to invoke if not asking for specific method invocation"
+        }
+      },
+      "required": [
+        "Conversation_Output",
+        "Method_ID",
+        "position",
+        "color",
+        "scale",
+        "name"
+      ]
+    },
+    "description": "Invoke the correct method with specificed parameters based on methods, if user asks for information instead of a method invocation, Question is True"
+  }
