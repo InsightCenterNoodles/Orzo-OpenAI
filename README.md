@@ -6,8 +6,8 @@ In this example, a user chats with an OpenAI Assistant to invoke multiple method
 
 ## Authors
 
-* **Jonny Bachman** - *Initial work* - [paulcena2](https://github.com/paulcena2)
-* **Harold MacArthur - [f1shkabob](https://github.com/f1shkabob)
+* **Jonny Bachman**  [paulcena2](https://github.com/paulcena2)
+* **Harold MacArthur**  [f1shkabob](https://github.com/f1shkabob)
 
 ## License
 
