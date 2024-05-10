@@ -6,7 +6,6 @@ In this example, a user chats with an OpenAI Assistant to invoke multiple method
 
 https://github.com/InsightCenterNoodles/Orzo-OpenAI/blob/main/AssistantMethodInvocation.mov 
 
-![ExampleScreenshot](https://github.com/InsightCenterNoodles/Orzo-OpenAI/blob/main/ChatGPTrobotdemo.png)
 
 ## Authors
 
